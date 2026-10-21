@@ -1,0 +1,7 @@
+*.bak*
+*.env
+*.sqlite
+*.db
+*.csv
+*.parquet
+__pycache__/
